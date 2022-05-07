@@ -1,0 +1,81 @@
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.exe
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.deps.json
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.json
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.dev.json
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csprojAssemblyReference.cache
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfoInputs.cache
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfo.cs
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csproj.CoreCompileInputs.cache
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\manar\OneDrive\سطح المكتب\c#projects\CmdCommand\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.exe
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.deps.json
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220308T171747Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.genruntimeconfig.cache
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.exe
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.deps.json
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.json
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.dev.json
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csprojAssemblyReference.cache
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfoInputs.cache
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfo.cs
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csproj.CoreCompileInputs.cache
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\manar\Downloads\CmdCommand-task1\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.exe
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.deps.json
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.dev.json
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\HP\OneDrive\Desktop\CmdCommand-20220315T175131Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.genruntimeconfig.cache
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.exe
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.deps.json
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.json
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.dev.json
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csprojAssemblyReference.cache
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfoInputs.cache
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfo.cs
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csproj.CoreCompileInputs.cache
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.dll
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.pdb
+C:\Users\manar\Downloads\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.genruntimeconfig.cache
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.exe
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.deps.json
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.json
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.runtimeconfig.dev.json
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.dll
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\bin\Debug\netcoreapp3.1\CmdCommand.pdb
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csproj.AssemblyReference.cache
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.GeneratedMSBuildEditorConfig.editorconfig
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfoInputs.cache
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.AssemblyInfo.cs
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.csproj.CoreCompileInputs.cache
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.dll
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.pdb
+E:\CmdCommand-20220321T180321Z-001\CmdCommand\CmdCommand\obj\Debug\netcoreapp3.1\CmdCommand.genruntimeconfig.cache
